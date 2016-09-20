@@ -1,8 +1,14 @@
-Name:
+Name: Julian Morrisette
 
-Compilation and Run Successful:
+Compilation and Run Successful:true
+The application successfully asks for a # input.
+When the user hits "enter", a message pops up saying
+"You entered 'num_entered' "
 
-Unit Test Run Successfully:
+Unit Test Run Successfully:true
+Message output:
+Running MainActivity unit tests
+Process finished with exit code 0
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
